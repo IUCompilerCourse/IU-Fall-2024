@@ -128,8 +128,8 @@ alone. The quizzes and exams are closed book.
 week late with a penalty of 10%.
 
 **Slack Chat/Messaging:**
-  [Workspace]() (
-  [signup]()
+  [Workspace](https:://compilersfall2024.slack.com) 
+    ([signup](https://join.slack.com/t/slack-b668831/shared_invite/zt-2p75mnh2b-0iLe8d8Bj1UuEj0ivh_nTg)
   using your iu email address).
 
 **Schedule**
