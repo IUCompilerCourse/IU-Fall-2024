@@ -78,9 +78,6 @@ github:
 
 * Generics
 
-* High-level optimization (inlining, constant folding, copy
-  propagation, etc.)
-
 **Grading:**
 
 Course grades are based on the following items. For the weighting, see
