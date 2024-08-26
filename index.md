@@ -139,7 +139,7 @@ Aug. 27 | [Introduction](https://docs.google.com/presentation/d/13jmEAwqD7naNAj0
 Aug. 29 | [From Lvar to x86](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing) |
 Sep. 3 | [Uniquify, Remove Complex Operands, Explicate Control](https://docs.google.com/presentation/d/1KIFtThQVM-u9DVttCT4q_68CVCTlIq_WCUwBOhdaB3o/edit?usp=sharing), [video](https://iu.mediaspace.kaltura.com/media/t/1_l0szlnzg) |
 Sep. 5 | [Explicate Control through Prelude & Conclusion](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing), [video](https://iu.mediaspace.kaltura.com/media/t/1_t431x6fs) |
-Sep. 10  | [Register Allocation, Introduction and Liveness](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing) | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/673) or [Python](https://autograder.luddy.indiana.edu/web/project/665)
+Sep. 10  | [Register Allocation, Introduction and Liveness](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing) | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1280) or [Python](https://autograder.luddy.indiana.edu/web/project/1283)
 Sep. 12  | Code Review: Integers and Variables
 Sep. 17 | [Register Allocation: graph coloring](https://docs.google.com/presentation/d/1qPKUGZnqh6ggfP5_emHVJhSTyPRI0iD02jRTdB9mbwo/edit?usp=sharing) | Integers and Variables, late deadline
 Oct. 24 | **Midterm Exam** in class
