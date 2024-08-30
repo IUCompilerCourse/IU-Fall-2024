@@ -52,8 +52,8 @@ github:
 
 **Office hours**
 
-* Jeremy Siek (jsiek): Mondays 2-3pm, Fridays 102pm, in Luddy 3014 (or nearby).
-* Darshal Shetty (dcshetty): TBD.
+* Jeremy Siek (jsiek): Mondays 2-3pm, Fridays 1-2pm, in Luddy 3014 (or nearby).
+* Darshal Shetty (dcshetty): Wednesdays 1:30-2:30pm, Fridays 2-3pm, in Luddy 3014 (or nearby).
 
 
 **Topics:**
