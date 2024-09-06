@@ -143,8 +143,7 @@ Sep. 10 | [Register Allocation: graph coloring](https://docs.google.com/presenta
 Sep. 12 | Code Review: Integers and Variables
 Sep. 17 | [L_If language, type checking, and x86_If](https://docs.google.com/presentation/d/1ZJWJN8mAPS3NpTBkbkY8xauZtIGbZdCwTovtN1a4gUo/edit?usp=sharing) | Integers and Variables, late deadline
 Sep. 19 | [Conditionals and Explicate Control](https://docs.google.com/presentation/d/1OALjNzmyLNt_Yg3eV_xjLx7ZxQ_8q2fLLi0I9nJjX9I/edit?usp=sharing) 
-Sep. 24 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.google.com/presentation/d/1Zcq1OpvmiMcHDkSZ0qjF2mdYNaov0t5R4qF0h66ryV8/edit?usp=sharing) | Register Allocationsubmit in [Racket](https://autograder.luddy.indiana.edu/web/project/1284) or [Python](https://autograder.luddy.indiana.edu/web/project/1271)
-
+Sep. 24 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.google.com/presentation/d/1Zcq1OpvmiMcHDkSZ0qjF2mdYNaov0t5R4qF0h66ryV8/edit?usp=sharing) | Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1284) or [Python](https://autograder.luddy.indiana.edu/web/project/1271)
 Sep. 26 | Code Review: Register Allocation
 Oct. 1  | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing) | Register Allocation, late deadline
 Oct. 3  | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation/d/18cN5P4pEuDds5U40Hqa6WDP-LdoyYBg2RCRML37QL5k/edit?usp=sharing)
