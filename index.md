@@ -147,7 +147,7 @@ Sep. 24 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.go
 Sep. 26 | Code Review: Register Allocation
 Oct. 1  | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing) | Register Allocation, late deadline
 Oct. 3  | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation/d/18cN5P4pEuDds5U40Hqa6WDP-LdoyYBg2RCRML37QL5k/edit?usp=sharing)
-Oct. 8 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing) | Booleans and Conditionals
+Oct. 8 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing) | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1276) or [Python](https://autograder.luddy.indiana.edu/web/project/1275)
 Oct. 10 | Code Review: Conditionals
 Oct. 15 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDrtEP0aY9R18oibuZvJkhVzeHlfthjR1_Kii6nM/edit?usp=sharing) | Booleans and Conditionals, late deadline
 Oct. 17 | [Arrays, Structs, Generational GC](https://docs.google.com/presentation/d/1GHF-JTvsnJeOSBhAn9m1HHFVpRekVPO0QHSbkbg4vX8/edit?usp=sharing)
