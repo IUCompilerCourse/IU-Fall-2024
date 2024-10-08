@@ -151,7 +151,7 @@ Oct. 8 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/
 Oct. 10 | Code Review: Conditionals
 Oct. 15 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDrtEP0aY9R18oibuZvJkhVzeHlfthjR1_Kii6nM/edit?usp=sharing) | Booleans and Conditionals, late deadline
 Oct. 17 | [Arrays, Structs, Generational GC](https://docs.google.com/presentation/d/1GHF-JTvsnJeOSBhAn9m1HHFVpRekVPO0QHSbkbg4vX8/edit?usp=sharing)
-Oct. 22 | Review for Midterm Exam | Loops
+Oct. 22 | Review for Midterm Exam | Loops, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1277) or [Python](https://autograder.luddy.indiana.edu/web/project/1272)
 Oct. 24 | **Midterm Exam** in class
 Oct. 29 | Code Review: Loops | Loops, late deadline 
 Oct. 31 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12AD6drC7k9_7Ldk8yN8HWI6MBmzqfM5ec0pSP9pj_po/edit?usp=sharing)
