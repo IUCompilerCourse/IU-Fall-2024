@@ -155,7 +155,7 @@ Oct. 22 | Review for Midterm Exam | Loops, submit in [Racket](https://autograder
 Oct. 24 | **Midterm Exam** in class
 Oct. 29 | Code Review: Loops | Loops, late deadline 
 Oct. 31 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12AD6drC7k9_7Ldk8yN8HWI6MBmzqfM5ec0pSP9pj_po/edit?usp=sharing)
-Nov. 5  | Compiling Functions, cont'd | Tuples
+Nov. 5  | Compiling Functions, cont'd | Tuples, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1278) or [Python](https://autograder.luddy.indiana.edu/web/project/1274)
 Nov. 7  | Code Review: Tuples
 Nov. 12 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing) | Tuples, late deadline
 Nov. 14 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing) 
