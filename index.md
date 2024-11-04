@@ -159,7 +159,7 @@ Nov. 5  | Compiling Functions, cont'd | Tuples, submit in [Racket](https://autog
 Nov. 7  | Code Review: Tuples
 Nov. 12 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing) | Tuples, late deadline
 Nov. 14 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing) 
-Nov. 19 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing) | Functions
+Nov. 19 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing) | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1279) or [Python](https://autograder.luddy.indiana.edu/web/project/1273)
 Nov. 21 | Code Review: Functions
 Nov. 22 | | Proposal for Final Project
 Nov. 24 - Dec. 1 | **Thanksgiving Break**
