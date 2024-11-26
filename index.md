@@ -167,7 +167,7 @@ Dec. 3 | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGM
 Dec. 5 | Objects
 Dec. 10 | Inlining
 Dec. 12 | Review for Final Exam
-Dec. 13 | | Final Project (no late submissions)
+Dec. 13 | | Final Project (no late submissions). See [canvas](https://iu.instructure.com/courses/2249389/assignments/16955233) for details.
 Dec. 19 | **Final Exam** 3-5pm
 
 **Resources:**
